@@ -17,7 +17,7 @@
 
 [Understanding Network Devices](https://webdev2026.hashnode.dev/the-network-devices)<br>
 
-[]()<br>
+[TCP Working: 3-Way Handshake & Reliable Communication](https://webdev2026.hashnode.dev/tcp-working)<br>
 
 []()<br>
 
