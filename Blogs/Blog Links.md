@@ -19,7 +19,7 @@
 
 [TCP Working: 3-Way Handshake & Reliable Communication](https://webdev2026.hashnode.dev/tcp-working)<br>
 
-[]()<br>
+[TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://webdev2026.hashnode.dev/tcp-vs-udp)<br>
 
 []()<br>
 
