@@ -23,6 +23,8 @@
 
 [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://webdev2026.hashnode.dev/how-a-browser-works)<br>
 
+[HTML Tags vs. Elements: A Simple Guide for Beginners](https://webdev2026.hashnode.dev/understanding-html-tags-and-elements)<br>
+[]()<br>
 []()<br>
 
 
