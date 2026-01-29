@@ -21,7 +21,7 @@
 
 [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://webdev2026.hashnode.dev/tcp-vs-udp)<br>
 
-[]()<br>
+[How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://webdev2026.hashnode.dev/how-a-browser-works)<br>
 
 []()<br>
 
