@@ -6,11 +6,11 @@
 
 [Understanding Network Devices](https://webdev2026.hashnode.dev/the-network-devices)<br>
 
-[Getting Started with cURL](https://webdev2026.hashnode.dev/the-client-url-curl)<br>
-
 [HTML Tags vs. Elements: A Simple Guide for Beginners](https://webdev2026.hashnode.dev/understanding-html-tags-and-elements)<br>
 
 [CSS Selectors 101: Targeting Elements with Precision](https://webdev2026.hashnode.dev/css-selectors-101)<br>
+
+[Getting Started with cURL](https://webdev2026.hashnode.dev/the-client-url-curl)<br>
 
 [How DNS Resolution Works](https://webdev2026.hashnode.dev/working-of-dns-resolution)<br>
 
