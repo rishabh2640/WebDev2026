@@ -27,6 +27,6 @@
 
 [CSS Selectors 101: Targeting Elements with Precision](https://webdev2026.hashnode.dev/css-selectors-101)<br>
 
-[]()<br>
+[Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://webdev2026.hashnode.dev/emmet-for-html)<br>
 
 
