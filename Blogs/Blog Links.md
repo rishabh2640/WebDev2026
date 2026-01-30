@@ -17,11 +17,15 @@
 
 [Understanding Network Devices](https://webdev2026.hashnode.dev/the-network-devices)<br>
 
-[]()<br>
+[TCP Working: 3-Way Handshake & Reliable Communication](https://webdev2026.hashnode.dev/tcp-working)<br>
 
-[]()<br>
+[TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://webdev2026.hashnode.dev/tcp-vs-udp)<br>
 
-[]()<br>
+[How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://webdev2026.hashnode.dev/how-a-browser-works)<br>
+
+[HTML Tags vs. Elements: A Simple Guide for Beginners](https://webdev2026.hashnode.dev/understanding-html-tags-and-elements)<br>
+
+[CSS Selectors 101: Targeting Elements with Precision](https://webdev2026.hashnode.dev/css-selectors-101)<br>
 
 []()<br>
 
